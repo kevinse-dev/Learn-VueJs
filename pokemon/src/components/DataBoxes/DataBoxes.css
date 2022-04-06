@@ -1,0 +1,4 @@
+.bg-custom{
+    @apply px-2 py-2 text-white bg-bg-red mx-auto h-auto w-6/12
+    
+}
